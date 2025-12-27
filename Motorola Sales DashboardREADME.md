@@ -1,4 +1,13 @@
-## 5️⃣ Motorola Sales Dashboard
+## Motorola Sales Dashboard
+
+### 📌 About This Project
+
+This project analyzes product and regional sales performance for an electronics brand, with the objective of identifying demand patterns and key revenue drivers. The dashboard provides visibility into top-performing products and regional contribution.
+
+The analysis helps sales and marketing teams focus on high-impact areas by highlighting product concentration and regional demand differences. Visuals are structured to support quick comparison and performance tracking.
+
+This project highlights my capability to build brand-level sales analytics dashboards that support strategic distribution and marketing decisions.
+
 
 ### 📌 Business Problem (WHY)
 
@@ -34,4 +43,5 @@ Electronics brands need to monitor product-wise and regional sales performance t
 ### 🚀 Business Impact
 
 Helps sales and marketing teams focus on high-performing products and regions.
+
 
